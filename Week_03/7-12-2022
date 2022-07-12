@@ -1,0 +1,62 @@
+7-12-2022
+
+created nline setup including:
+  google colab, Rstudio.Cloud, VS Code, github
+
+
+
+
+KNOWLEDGE AREAS COVERED:
+  
+  tabular data analysis: EDA (summaries, plots, etc.)
+    linear regression
+    linear classification models
+ 
+ performance analysis^
+    ROC, AVC, confusion matices, estimation
+ 
+ basic statistics
+    distribution
+    parametric assumptions
+    statistical testing
+    
+  NLP: text data
+    BERT
+    transformers 
+      convert text into numbers
+      classification
+
+
+
+
+NEW FOR TODAY:
+  
+  Dev environment
+    telling data stories
+    web apps
+    save and load models for web API/App deployment
+    containerization? CICD? 
+      H2O
+      Pycarrot
+      Streamlit
+      Docker
+      Pandas profiling
+      autoViz
+    
+  knowledge/skills
+    image analysis for classification/regression
+    1D signal analysis
+    unsupervised EJA (dimensionality reduction, projection)
+    
+    
+    
+
+WHAT I HAVE REALY DONE:
+  Analytics4All tutorials 1-5
+ 
+ACCOMPLISHED TODAY:
+  Analytics4All tutorials 6-7
+  logged into Youtube Account
+  liked videos I watched, commented gratitude
+  played Duolingo
+    
